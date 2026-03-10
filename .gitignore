@@ -1,0 +1,21 @@
+# Pastas de Build (Binaries)
+[Bb]in/
+[Oo]bj/
+
+# Arquivos e pastas temporárias do Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de log e diagnóstico
+*.log
+*.pidb
+*.itrace
+
+# Configurações de ambiente local (evita vazar senhas locais)
+appsettings.Development.json
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
