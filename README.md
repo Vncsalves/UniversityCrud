@@ -75,6 +75,9 @@ Espaço reservado para as capturas de tela dos testes realizados:
 ### 7. Get All Enrollments (Dados relacionados populados)
 ![Get All Enrollments](Assets/getEnrollment.png)
 
+### 8. DataBase 
+![base de dados criada](Assets/bancodedados.png)
+
 Como rodar o projeto
 ------------------------
 
